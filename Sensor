@@ -1,4 +1,4 @@
-#include <stp.h>
+#include <SPI.h>
 #include <Arduino.h>
 #include <Wire.h>
 #include <ArdusatSDK.h>
